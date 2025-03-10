@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm Software developer
 - 🔭 I’m currently working on building resilient systems at scale
-- 🏢 I'm currently working at CarTrade Tech, leading automotive Marketplace in India 
+- 🏢 I'm currently working at Ninjacart, largest agri tech company in India 
 - 🌱 I’m currently learning to manage people and as usual improving my tech skills
 - 😄 Pronouns: Problem Solver
 
