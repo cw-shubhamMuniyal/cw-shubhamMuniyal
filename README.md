@@ -1,9 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 👨‍💻 I'm Software developer
-- 🔭 I’m currently working on building resilient systems at scale
+- 🔭 I’m currently working on building resilient distributed systems at scale
 - 🏢 I'm currently working at Ninjacart, largest agri tech company in India 
-- 🌱 I’m currently learning to manage people and as usual improving my tech skills
+- 🌱 I’m learning to manage people and as usual improving my tech skills
 - 😄 Pronouns: Problem Solver
 
 
